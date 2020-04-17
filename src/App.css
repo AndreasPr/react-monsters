@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+h1
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 40px;
+  color: darkgoldenrod;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
